@@ -21,3 +21,5 @@ Take a look at my EEA source code. In a simulation, we have an omega state (begi
 I’ll point out that my EEA usage as described immediately above also has a civilian utopian application….
 
 This is just a blueprint using the US-Iranian conflict as an example. You could also involve tank drones if you wish. You can also apply this blueprint to the other branches of the US military.
+
+Now let’s take a quick review here. First I’ll point out that you’re not inventing any new technology. All of this technology currently exists, and at most you’d just be pushing the envelope a little bit. If you actually implemented this as described above, it wouldn’t take two years. You would completely destroy the entire country in less than two days. Now I have you committing all sorts of war crimes like killing farmers and ranchers and hostages, but that doesn’t matter, and I’ll tell you why. Because if you actually had that kind of military capability, you could easily take over the entire world and you would answer to no one.
