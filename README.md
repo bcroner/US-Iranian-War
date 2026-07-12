@@ -11,6 +11,7 @@ I need the following:
 * 100,000 land-launched heavy duty drones that destroy identified naval targets.  
 * 100,000 automated submarine espionage drones.  
 * 50,000 automated submarine killer drones.  
+* 25,000 automated 4,000 kg tank drones that travel at 120 mph  
 * Cooperation with Turkey and Pakistan to provide the electrical power necessary to sustain this nonstop, all-out assault on Iran for at least 2 years. The automated fleet of drones and Optimus robots return to recharge and then they head right back out there, and it is from these nations that land-based drones are launched.  
 * A multibillion dollar compute center that is capable of running my 3SAT logic solver in such a highly parallelized fashion that any encryption code of any kind can be cracked instantly, in a split second. This will be multi-purpose because we’ll also need a system with these specs for my Everything Equation App to execute the automated design and discovery of anything that can be represented by logic.
 
